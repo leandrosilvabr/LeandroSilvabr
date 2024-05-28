@@ -1,6 +1,6 @@
-### Olá!
+### Olá, Sou Leandro!
 
-Sou Leandro Silva, sou um programador Front End, atualmente estou aprendendo e criando projetos como;
+Sou um programador Front End, atualmente estou aprendendo e criando projetos como;
 <br/>
 <br/>
 
